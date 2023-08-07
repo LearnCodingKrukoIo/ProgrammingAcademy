@@ -1,7 +1,3 @@
-# RSpec 
-- Czym jest Rspec? 
-- Jak tworzyć testy w Rspec?
-
-# Factory
-- Czym jest Faktory? 
-- Po co warto używać tej technologii?
+# Deployment
+- Czym jest deployment?
+- Jak przygotować swoją aplikację do deploymentu?
