@@ -24,4 +24,5 @@ production:
   adapter: postgresql
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") {5} %>
   timeout: 5000
-  url: <%= ENV.fetch("DATA_BASE_URL","") %>
+  url: <%= ENV.fetch("DATABASE_URL") %>
+  
